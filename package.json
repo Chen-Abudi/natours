@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss pages/style.css -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chen-Abudi/natours.git"
+  },
+  "author": "Chen Abudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chen-Abudi/natours/issues"
+  },
+  "homepage": "https://github.com/Chen-Abudi/natours#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
