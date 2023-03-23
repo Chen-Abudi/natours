@@ -1,6 +1,6 @@
 # Natours 🌴🗺️
 
-### Developed by Chen Abudi as part of **Advanced CSS & Sass** course in **`Udemy`**
+### Developed by Chen Abudi as part of **Advanced CSS & Sass** course in **_`Udemy`_**
 
 ## 📢 Overview
 
