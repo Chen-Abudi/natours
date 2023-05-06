@@ -19,6 +19,7 @@ Exiting tours for adventurous people landing page as part of Udemy Advanced CSS 
 - CSS3
 - HTML5
 - BEM Methodology
+- Browser support with @supports
 
 ---
 
