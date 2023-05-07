@@ -160,6 +160,8 @@
   }
 
   // Back Side Styling
+  /* price box with a value and a description. Each side of the card
+   has different gradients for its background color. */
   &__cta {
     position: absolute;
     top: 50%;
@@ -185,8 +187,10 @@
     font-weight: 100;
   }
 
-  // Media query
-  @include respond(tab-port) {
+  /* This Media query changes the styles when the viewport width 
+  is less than 900px or when there is no hover capability */
+  // @include respond(tab-port) {
+  @media only screen and (max-width: 56.25em), only screen and (hover: none) {
     height: auto;
     border-radius: 3px;
     background-color: $color-white;

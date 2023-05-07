@@ -6,6 +6,7 @@
 
 - Intro
 - Technologies & Techniques
+- Possible Improvements
 
 ---
 
@@ -16,10 +17,17 @@ Exiting tours for adventurous people landing page as part of Udemy Advanced CSS 
 ## 🛠️ Technologies & Techniques
 
 - Sass + SCSS
+- Sass Architecture
 - CSS3
 - HTML5
 - BEM Methodology
 - Browser Support with `@supports`
+- `NPM` Scripts
+- Responsive Design
+
+## 🔧 Possible Improvements
+
+- [ ] Add functionality and make the page more dynamic
 
 ---
 
