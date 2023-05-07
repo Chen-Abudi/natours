@@ -7,6 +7,7 @@
 - Intro
 - Technologies & Techniques
 - Possible Improvements
+- Deployed Project
 
 ---
 
@@ -28,6 +29,10 @@ Exiting tours for adventurous people landing page as part of Udemy Advanced CSS 
 ## 🔧 Possible Improvements
 
 - [ ] Add functionality and make the page more dynamic
+
+## ✨ Deployed Project
+
+- Visit the **Live Project** on `GitHub Pages`[&#128073;&#127997; **HERE !**](https://chen-abudi.github.io/natours/)
 
 ---
 
